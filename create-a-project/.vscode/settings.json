@@ -1,0 +1,5 @@
+{
+  "explorer.compactFolders": false,
+  "extensions.ignoreRecommendations": false,
+  "js/ts.tsdk.path": "node_modules\\typescript\\lib"
+}
